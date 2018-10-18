@@ -6,4 +6,4 @@ Resources:
       ImageId: ami-02d039674ab9ba947 # Amazon Linux AMI in Sydney
       Tags:
         - Key: Name
-          Value: A Simple Example
+          Value: A Simple Example #this is just a test
